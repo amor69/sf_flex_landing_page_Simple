@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Welcome!{% endblock %}</title>
+    {% block stylesheets %}{% endblock %}
+</head>
+<body>
+{% include 'includes/header.html.twig' %}
+{% block body %}{% endblock %}
+{% include 'includes/footer.html.twig' %}
+{% block javascripts %}{% endblock %}
+</body>
+</html>
