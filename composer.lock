@@ -4,8 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "46644628221a6435a97e1d121fa55080",
-    "content-hash": "572ee2129e8fd42ad24d8992b1f5a40d",
+    "content-hash": "c44e73e2d170fccacf7b954c57650add",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -73,7 +72,7 @@
                 "docblock",
                 "parser"
             ],
-            "time": "2017-07-22 10:58:02"
+            "time": "2017-07-22T10:58:02+00:00"
         },
         {
             "name": "doctrine/cache",
@@ -147,7 +146,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2017-08-25 07:02:50"
+            "time": "2017-08-25T07:02:50+00:00"
         },
         {
             "name": "doctrine/collections",
@@ -214,7 +213,7 @@
                 "collections",
                 "iterator"
             ],
-            "time": "2017-07-22 10:37:32"
+            "time": "2017-07-22T10:37:32+00:00"
         },
         {
             "name": "doctrine/common",
@@ -287,7 +286,7 @@
                 "persistence",
                 "spl"
             ],
-            "time": "2017-08-31 08:43:38"
+            "time": "2017-08-31T08:43:38+00:00"
         },
         {
             "name": "doctrine/inflector",
@@ -354,7 +353,7 @@
                 "singularize",
                 "string"
             ],
-            "time": "2017-07-22 12:18:28"
+            "time": "2017-07-22T12:18:28+00:00"
         },
         {
             "name": "doctrine/lexer",
@@ -408,7 +407,7 @@
                 "lexer",
                 "parser"
             ],
-            "time": "2014-09-09 13:34:57"
+            "time": "2014-09-09T13:34:57+00:00"
         },
         {
             "name": "psr/cache",
@@ -454,7 +453,7 @@
                 "psr",
                 "psr-6"
             ],
-            "time": "2016-08-06 20:24:11"
+            "time": "2016-08-06T20:24:11+00:00"
         },
         {
             "name": "psr/container",
@@ -503,7 +502,7 @@
                 "container-interop",
                 "psr"
             ],
-            "time": "2017-02-14 16:28:37"
+            "time": "2017-02-14T16:28:37+00:00"
         },
         {
             "name": "psr/log",
@@ -550,7 +549,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-10-10 12:19:37"
+            "time": "2016-10-10T12:19:37+00:00"
         },
         {
             "name": "psr/simple-cache",
@@ -598,7 +597,7 @@
                 "psr-16",
                 "simple-cache"
             ],
-            "time": "2017-01-02 13:31:39"
+            "time": "2017-01-02T13:31:39+00:00"
         },
         {
             "name": "sensio/framework-extra-bundle",
@@ -668,7 +667,7 @@
                 "annotations",
                 "controllers"
             ],
-            "time": "2017-08-23 12:40:59"
+            "time": "2017-08-23T12:40:59+00:00"
         },
         {
             "name": "symfony/cache",
@@ -738,7 +737,7 @@
                 "caching",
                 "psr6"
             ],
-            "time": "2017-09-03 14:06:51"
+            "time": "2017-09-03T14:06:51+00:00"
         },
         {
             "name": "symfony/class-loader",
@@ -794,7 +793,7 @@
             ],
             "description": "Symfony ClassLoader Component",
             "homepage": "https://symfony.com",
-            "time": "2017-07-29 21:54:42"
+            "time": "2017-07-29T21:54:42+00:00"
         },
         {
             "name": "symfony/config",
@@ -856,7 +855,7 @@
             ],
             "description": "Symfony Config Component",
             "homepage": "https://symfony.com",
-            "time": "2017-09-04 16:28:07"
+            "time": "2017-09-04T16:28:07+00:00"
         },
         {
             "name": "symfony/console",
@@ -924,7 +923,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2017-09-06 16:40:18"
+            "time": "2017-09-06T16:40:18+00:00"
         },
         {
             "name": "symfony/debug",
@@ -980,7 +979,7 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2017-09-01 13:23:39"
+            "time": "2017-09-01T13:23:39+00:00"
         },
         {
             "name": "symfony/dependency-injection",
@@ -1050,7 +1049,7 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "https://symfony.com",
-            "time": "2017-09-05 20:39:38"
+            "time": "2017-09-05T20:39:38+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -1113,7 +1112,7 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "time": "2017-07-29 21:54:42"
+            "time": "2017-07-29T21:54:42+00:00"
         },
         {
             "name": "symfony/filesystem",
@@ -1162,7 +1161,7 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "https://symfony.com",
-            "time": "2017-07-29 21:54:42"
+            "time": "2017-07-29T21:54:42+00:00"
         },
         {
             "name": "symfony/finder",
@@ -1211,7 +1210,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2017-07-29 21:54:42"
+            "time": "2017-07-29T21:54:42+00:00"
         },
         {
             "name": "symfony/flex",
@@ -1257,7 +1256,7 @@
                     "email": "fabien.potencier@gmail.com"
                 }
             ],
-            "time": "2017-09-14 19:04:54"
+            "time": "2017-09-14T19:04:54+00:00"
         },
         {
             "name": "symfony/framework-bundle",
@@ -1370,7 +1369,7 @@
             ],
             "description": "Symfony FrameworkBundle",
             "homepage": "https://symfony.com",
-            "time": "2017-09-11 05:57:23"
+            "time": "2017-09-11T05:57:23+00:00"
         },
         {
             "name": "symfony/http-foundation",
@@ -1423,7 +1422,7 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "https://symfony.com",
-            "time": "2017-09-06 17:07:39"
+            "time": "2017-09-06T17:07:39+00:00"
         },
         {
             "name": "symfony/http-kernel",
@@ -1509,7 +1508,7 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "https://symfony.com",
-            "time": "2017-09-11 16:13:23"
+            "time": "2017-09-11T16:13:23+00:00"
         },
         {
             "name": "symfony/polyfill-apcu",
@@ -1562,7 +1561,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-07-05 15:09:33"
+            "time": "2017-07-05T15:09:33+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -1621,7 +1620,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-14 15:44:48"
+            "time": "2017-06-14T15:44:48+00:00"
         },
         {
             "name": "symfony/process",
@@ -1670,7 +1669,7 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
-            "time": "2017-07-29 21:54:42"
+            "time": "2017-07-29T21:54:42+00:00"
         },
         {
             "name": "symfony/routing",
@@ -1748,7 +1747,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2017-07-29 21:54:42"
+            "time": "2017-07-29T21:54:42+00:00"
         },
         {
             "name": "symfony/stopwatch",
@@ -1797,7 +1796,7 @@
             ],
             "description": "Symfony Stopwatch Component",
             "homepage": "https://symfony.com",
-            "time": "2017-07-29 21:54:42"
+            "time": "2017-07-29T21:54:42+00:00"
         },
         {
             "name": "symfony/translation",
@@ -1862,7 +1861,7 @@
             ],
             "description": "Symfony Translation Component",
             "homepage": "https://symfony.com",
-            "time": "2017-07-29 21:54:42"
+            "time": "2017-07-29T21:54:42+00:00"
         },
         {
             "name": "symfony/twig-bridge",
@@ -1949,7 +1948,7 @@
             ],
             "description": "Symfony Twig Bridge",
             "homepage": "https://symfony.com",
-            "time": "2017-07-29 21:54:42"
+            "time": "2017-07-29T21:54:42+00:00"
         },
         {
             "name": "symfony/twig-bundle",
@@ -2021,7 +2020,7 @@
             ],
             "description": "Symfony TwigBundle",
             "homepage": "https://symfony.com",
-            "time": "2017-09-01 13:23:39"
+            "time": "2017-09-01T13:23:39+00:00"
         },
         {
             "name": "symfony/validator",
@@ -2100,7 +2099,7 @@
             ],
             "description": "Symfony Validator Component",
             "homepage": "https://symfony.com",
-            "time": "2017-08-27 14:52:21"
+            "time": "2017-08-27T14:52:21+00:00"
         },
         {
             "name": "symfony/web-server-bundle",
@@ -2155,7 +2154,7 @@
             ],
             "description": "Symfony WebServerBundle",
             "homepage": "https://symfony.com",
-            "time": "2017-08-22 13:33:42"
+            "time": "2017-08-22T13:33:42+00:00"
         },
         {
             "name": "symfony/yaml",
@@ -2210,7 +2209,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2017-07-29 21:54:42"
+            "time": "2017-07-29T21:54:42+00:00"
         },
         {
             "name": "twig/twig",
@@ -2276,7 +2275,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2017-06-07 18:47:58"
+            "time": "2017-06-07T18:47:58+00:00"
         }
     ],
     "packages-dev": [
@@ -2351,7 +2350,7 @@
                 "persistence",
                 "queryobject"
             ],
-            "time": "2017-08-28 11:02:56"
+            "time": "2017-08-28T11:02:56+00:00"
         },
         {
             "name": "doctrine/doctrine-bundle",
@@ -2432,7 +2431,7 @@
                 "orm",
                 "persistence"
             ],
-            "time": "2017-07-28 20:57:50"
+            "time": "2017-07-28T20:57:50+00:00"
         },
         {
             "name": "doctrine/doctrine-cache-bundle",
@@ -2520,7 +2519,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2016-01-26 17:28:51"
+            "time": "2016-01-26T17:28:51+00:00"
         },
         {
             "name": "doctrine/instantiator",
@@ -2574,7 +2573,7 @@
                 "constructor",
                 "instantiate"
             ],
-            "time": "2017-07-22 11:58:36"
+            "time": "2017-07-22T11:58:36+00:00"
         },
         {
             "name": "doctrine/orm",
@@ -2650,7 +2649,7 @@
                 "database",
                 "orm"
             ],
-            "time": "2017-09-18 06:50:20"
+            "time": "2017-09-18T06:50:20+00:00"
         },
         {
             "name": "jdorn/sql-formatter",
@@ -2700,7 +2699,7 @@
                 "highlight",
                 "sql"
             ],
-            "time": "2014-01-12 16:20:24"
+            "time": "2014-01-12T16:20:24+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -2748,7 +2747,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2017-03-13 16:27:32"
+            "time": "2017-03-13T16:27:32+00:00"
         },
         {
             "name": "symfony/doctrine-bridge",
@@ -2827,7 +2826,7 @@
             ],
             "description": "Symfony Doctrine Bridge",
             "homepage": "https://symfony.com",
-            "time": "2017-09-11 15:55:22"
+            "time": "2017-09-11T15:55:22+00:00"
         },
         {
             "name": "symfony/dotenv",
@@ -2884,7 +2883,7 @@
                 "env",
                 "environment"
             ],
-            "time": "2017-09-05 07:59:31"
+            "time": "2017-09-05T07:59:31+00:00"
         },
         {
             "name": "symfony/form",
@@ -2963,7 +2962,7 @@
             ],
             "description": "Symfony Form Component",
             "homepage": "https://symfony.com",
-            "time": "2017-08-03 08:59:45"
+            "time": "2017-08-03T08:59:45+00:00"
         },
         {
             "name": "symfony/inflector",
@@ -3020,7 +3019,7 @@
                 "symfony",
                 "words"
             ],
-            "time": "2017-07-29 21:54:42"
+            "time": "2017-07-29T21:54:42+00:00"
         },
         {
             "name": "symfony/intl",
@@ -3095,7 +3094,7 @@
                 "l10n",
                 "localization"
             ],
-            "time": "2017-08-27 14:52:21"
+            "time": "2017-08-27T14:52:21+00:00"
         },
         {
             "name": "symfony/options-resolver",
@@ -3149,7 +3148,7 @@
                 "configuration",
                 "options"
             ],
-            "time": "2017-07-29 21:54:42"
+            "time": "2017-07-29T21:54:42+00:00"
         },
         {
             "name": "symfony/orm-pack",
@@ -3176,7 +3175,7 @@
                 "MIT"
             ],
             "description": "A pack for the Doctrine ORM",
-            "time": "2017-09-11 23:09:08"
+            "time": "2017-09-11T23:09:08+00:00"
         },
         {
             "name": "symfony/polyfill-intl-icu",
@@ -3234,7 +3233,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-14 15:44:48"
+            "time": "2017-06-14T15:44:48+00:00"
         },
         {
             "name": "symfony/polyfill-php70",
@@ -3293,7 +3292,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-14 15:44:48"
+            "time": "2017-06-14T15:44:48+00:00"
         },
         {
             "name": "symfony/property-access",
@@ -3361,7 +3360,7 @@
                 "property path",
                 "reflection"
             ],
-            "time": "2017-08-30 14:49:16"
+            "time": "2017-08-30T14:49:16+00:00"
         }
     ],
     "aliases": [],
