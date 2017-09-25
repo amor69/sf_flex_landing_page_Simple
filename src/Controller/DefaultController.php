@@ -42,7 +42,6 @@ class DefaultController extends Controller
         if ($form->isValid()) {
             $em->persist($contact);
             $em->flush();
-            //$this->addFlash("notice","Formulaire enregistré .");
 
             return $this->redirectToRoute('home');
         }
