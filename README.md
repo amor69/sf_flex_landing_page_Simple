@@ -17,7 +17,7 @@ Composer create-project symfony/skeleton projectName
     - composer req doctrine "for use of doctrine and a database
              this will install the entity and repository folder in /src"
     - composer req symfony/form "for use of symfony forms it may be that the instalation fails in this case
-             it is necessary to install `translator` and `validator` with the same procedure composer req "
+             it is necessary to install `validator` with the same procedure composer req "
 
 */ for the creation of the database it is necessary to add url mysql in the .env in the part doctrine bundle
 
