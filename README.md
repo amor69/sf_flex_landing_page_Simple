@@ -2,7 +2,11 @@ simple flex project without easyadminBundle
 
 Small project with a single entity Contact and without easyadminBundle
 
-*/ First stage installation of the project:
+*/ First stage clone project do an composer update. and run `make serve`
+
+**********************************************************************************************************************
+
+*/ to install a new project:
 
 Composer create-project symfony/skeleton projectName
 
